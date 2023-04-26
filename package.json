@@ -21,7 +21,9 @@
   },
   "author": "nondanee",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "@unblockneteasemusic/server": "^0.27.0-rc.2"
+  },
   "publishConfig": {
     "access": "public"
   }
